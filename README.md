@@ -2,7 +2,7 @@
 
 <div align=center>
 <h1>Hello 👋!</h1> 
-Welcome to my [GitHub](http://github.01001101.xyz) page. I am Metehan.
+Welcome to my <a href="http://github.01001101.xyz">GitHub page.</a> I am Metehan.
 </div>
 
 ## About Me
