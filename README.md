@@ -14,7 +14,7 @@ I started programming as a hobby when I was a child, so I have about 6 years of 
 
 <div align=center>
 <a href="https://github.com/metehantufek/profileclock">
-<img src="https://testre-azure.vercel.app">
+<img src="https://testre-azure.vercel.app/?gmt=3">
 </a>
 </div>
 <p align=center><em >My current time.</em></p>
